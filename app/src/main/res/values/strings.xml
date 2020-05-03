@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Covid19</string>
+
+    <string name="detay">Detay</string>
+    <string name="ulkeye_ait_veri_yok">Bu ülkeye ait veri yok</string>
+    <string name="nasil_korunurum">Nasıl Korunurum?</string>
+    <string name="korunavirus_bilgi">Koranavirüs Bilgi</string>
+    <string name="harita">Harita</string>
+    <string name="ulke_sorgula">Ülke Sorgula</string>
+    <string name="arama">Arama</string>
+    <string name="vaka">Vaka</string>
+    <string name="iyilesen">İyileşen</string>
+    <string name="olen">Ölen</string>
+    <string name="dunya_geneli">Dünya Geneli</string>
+    <string name="vaka_sayisi">Vaka Sayısı</string>
+    <string name="iyilesen_sayisi">İyileşen Vaka Sayısı</string>
+    <string name="olen_sayisi">Ölen Hasta Sayısı</string>
+    <string name="serach_hint">Örn: Turkey</string>
+
+
+    <!--NASIL KORUNURUM LİSTE -->
+    <string name="title1">Maske takmalısın</string>
+    <string name="title2">Sosyal mesafeye dikkat et</string>
+    <string name="title3">Özel eşyalarını dezenfekte et</string>
+    <string name="title4">Ellerini en az 20 saniye yıka</string>
+    <string name="title5">Evde kal</string>
+
+    <string name="description1">Solunum yolu enfeksiyonları damlacıklarla bulaşır. Bu nedenle cerrahi maskelerin gözenekleri bu damlacıkların geçmemesi için yeterlidir.</string>
+    <string name="description2">Kalabalık ortamlardan, gerekli olmayan sosyal buluşmalardan uzak durmak diğer bulaşıcı hastalıklarda olduğu gibi Covid-19\'un yayılmasını da yavaşlatabilir.</string>
+    <string name="description3">Sık kullandığımız eşyaları belirli aralıklarla dezenfekte etmeliyiz. Yoksa farketmeden virüsün bulunduğu ortamda eşyalarımıza virüs temas edebilir ve bu şekilde enfekte olabiliriz.</string>
+    <string name="description4">El yıkamanın gerekli olduğu bazı durumlar vardır, ama ellerin görünür şekilde kirli değilse el antiseptiği de kullanabilirsin. İki türlü de ellerini mümkün olduğunca temiz tutmak için uygun yöntemi uygulamak önemlidir.</string>
+    <string name="description5">Sağlık çalışanları bizim için fedakârlık yaparak görevlerinin başında bizde onların tavsiyesine uyalım. Zorunlu ihtiyaç dışında evimizden çıkmayalım.</string>
+
+    <string name="chart_hata">Grafik gösterlemiyor!.</string>
+
+</resources>

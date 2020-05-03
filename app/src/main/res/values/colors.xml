@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#f44336</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="siyah">#000000</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="linecolor">#EAEAEA</color>
+    <color name="textcolor">#515151</color>
+    <color name="cardviewcolor">#f7f7f7</color>
+    <color name="backcolor">#f2f2f2</color>
+    <color name="splashbackcolor">#f44336</color>
+    <color name="grey">#E3E1E1</color>
+</resources>
